@@ -1,0 +1,152 @@
+[
+  {
+    "txn_id": "TXN001",
+    "fund_id": "fund_bluechip",
+    "txn_type": "BUY",
+    "units": 159.07,
+    "nav": 121.4,
+    "amount": 19310.9,
+    "txn_date": "2024-03-01",
+    "folio_no": "F001234"
+  },
+  {
+    "txn_id": "TXN002",
+    "fund_id": "fund_growth",
+    "txn_type": "BUY",
+    "units": 58.6,
+    "nav": 51.31,
+    "amount": 3006.77,
+    "txn_date": "2023-05-01",
+    "folio_no": "F001235"
+  },
+  {
+    "txn_id": "TXN003",
+    "fund_id": "fund_value",
+    "txn_type": "BUY",
+    "units": 80.0,
+    "nav": 101.8,
+    "amount": 8144.0,
+    "txn_date": "2023-12-01",
+    "folio_no": "F001236"
+  },
+  {
+    "txn_id": "TXN004",
+    "fund_id": "fund_value",
+    "txn_type": "BUY",
+    "units": 80.57,
+    "nav": 101.8,
+    "amount": 8202.05,
+    "txn_date": "2024-01-15",
+    "folio_no": "F001236"
+  },
+  {
+    "txn_id": "TXN005",
+    "fund_id": "fund_debt",
+    "txn_type": "BUY",
+    "units": 206.71,
+    "nav": 33.22,
+    "amount": 6866.92,
+    "txn_date": "2024-03-01",
+    "folio_no": "F001237"
+  },
+  {
+    "txn_id": "TXN006",
+    "fund_id": "fund_gold",
+    "txn_type": "BUY",
+    "units": 40.0,
+    "nav": 47.16,
+    "amount": 1886.4,
+    "txn_date": "2023-10-01",
+    "folio_no": "F001238"
+  },
+  {
+    "txn_id": "TXN007",
+    "fund_id": "fund_gold",
+    "txn_type": "SELL",
+    "units": 8.87,
+    "nav": 51.2,
+    "amount": 454.14,
+    "txn_date": "2024-02-15",
+    "folio_no": "F001238"
+  },
+  {
+    "txn_id": "TXN008",
+    "fund_id": "fund_international",
+    "txn_type": "BUY",
+    "units": 169.03,
+    "nav": 76.4,
+    "amount": 12913.89,
+    "txn_date": "2023-04-01",
+    "folio_no": "F001239"
+  },
+  {
+    "txn_id": "TXN009",
+    "fund_id": "fund_index",
+    "txn_type": "BUY",
+    "units": 196.39,
+    "nav": 168.49,
+    "amount": 33092.17,
+    "txn_date": "2023-12-01",
+    "folio_no": "F001240"
+  },
+  {
+    "txn_id": "TXN010",
+    "fund_id": "fund_tax_saver",
+    "txn_type": "BUY",
+    "units": 67.58,
+    "nav": 64.43,
+    "amount": 4354.3,
+    "txn_date": "2023-05-01",
+    "folio_no": "F001241"
+  },
+  {
+    "txn_id": "TXN011",
+    "fund_id": "fund_bluechip",
+    "txn_type": "DIVIDEND",
+    "units": 0,
+    "nav": 131.2,
+    "amount": 320.5,
+    "txn_date": "2024-04-10",
+    "folio_no": "F001234"
+  },
+  {
+    "txn_id": "TXN012",
+    "fund_id": "fund_index",
+    "txn_type": "BUY",
+    "units": 15.5,
+    "nav": 185.3,
+    "amount": 2872.15,
+    "txn_date": "2024-02-01",
+    "folio_no": "F001240"
+  },
+  {
+    "txn_id": "TXN013",
+    "fund_id": "fund_growth",
+    "txn_type": "BUY",
+    "units": 20.0,
+    "nav": 62.4,
+    "amount": 1248.0,
+    "txn_date": "2024-01-10",
+    "folio_no": "F001235"
+  },
+  {
+    "txn_id": "TXN014",
+    "fund_id": "fund_tax_saver",
+    "txn_type": "BUY",
+    "units": 10.0,
+    "nav": 75.8,
+    "amount": 758.0,
+    "txn_date": "2024-03-15",
+    "folio_no": "F001241"
+  },
+  {
+    "txn_id": "TXN015",
+    "fund_id": "fund_international",
+    "txn_type": "SELL",
+    "units": 20.0,
+    "nav": 96.5,
+    "amount": 1930.0,
+    "txn_date": "2024-05-01",
+    "folio_no": "F001239"
+  }
+]
